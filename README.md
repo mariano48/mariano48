@@ -1,5 +1,8 @@
 # 💫 About Me:
-My name is Mariano, i'm a full-stack developer from Argentina. I decided to change my occupation to computer science after 5 years of working on the steel industry. As of now i'm looking for my first full-time job. I define myself as proactive, team player and open to constructive feedback.<br>You can contact me at : marianosolis423@gmail.com
+My name is Mariano, i'm a full-stack developer from Argentina. I decided to change my occupation to computer science after 5 years of working on the steel industry. As of now i'm looking for my first full-time job. I define myself as proactive, team player and open to constructive feedback.<br>
+
+
+## You can contact me at : marianosolis423@gmail.com
 
 
 ## 🌐 Socials:
